@@ -1,0 +1,10 @@
+albumentations
+apex
+jpeg4py
+pandas
+pycocotools
+torch
+torchvision
+tqdm
+matplotlib
+numpy
